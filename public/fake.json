@@ -1,0 +1,74 @@
+[
+    {
+      "id":"1",
+      "picture": "https://resources.pulse.icc-cricket.com/photo-resources/2019/07/07/bee07313-fb1f-4b29-b033-f761bb52d1d1/Shakib.jpg?width=845&height=476",
+      "name": "Shakib Al Hasan",
+      "gender": "All-rounder",
+      "price":12000,
+      "quantity": 0
+    },
+    {
+      "id":"2",
+      "picture": "https://www.mykhel.com/thumb/247x100x233/cricket/players/2/6752.1671619123.jpg",
+      "name": "Mustafizur Rahman",
+      "gender": "Bowler",
+      "price":12000,
+      "quantity": 0
+    },
+    {
+      "id":"3",
+      "picture": "https://www.mykhel.com/thumb/247x100x233/cricket/players/0/6750.1506323385.jpg",
+      "name": "Mehedi Hasan",
+      "gender": "All-rounder",
+      "price":10000,
+      "quantity": 0
+    },
+    {
+      "id":"4",
+      "picture": "https://www.mykhel.com/thumb/247x100x233/cricket/players/7/12317.1643880739.jpg",
+      "name": "Shoriful Islam",
+      "gender": "Bowler",
+      "price":12000,
+      "quantity": 0
+    },
+    {
+      "id":"5",
+      "picture": "https://resources.pulse.icc-cricket.com/ICC/photo/2018/10/17/cf0e9cc5-02a3-4a7a-8e93-4ad46d08ec82/Liton-Das.jpg",
+      "name": "Liton Das",
+      "gender": "Wicket Keeper",
+      "price":10000,
+      "quantity": 0
+    },
+    {
+      "id":"6",
+      "picture": "https://www.mykhel.com/thumb/247x100x233/cricket/players/1/5561.1667478495.jpg",
+      "name": "Nasum Ahmed",
+      "gender": "All-rounder",
+      "price":10000,
+      "quantity": 0
+    },
+    {
+      "id":"7",
+      "picture": "https://www.mykhel.com/thumb/247x100x233/cricket/players/3/6753.1667478476.jpg",
+      "name": "Nazmul Hossain Shanto",
+      "gender": "Batter",
+      "price":10000,
+      "quantity": 0
+    },
+    {
+      "id":"8",
+      "picture": "https://www.mykhel.com/thumb/247x100x233/cricket/players/3/5563.1667478638.jpg",
+      "name": "Taskin Ahmed",
+      "gender": "Bowler",
+      "price":10000,
+      "quantity": 0
+    },
+    {
+      "id":"9",
+      "picture": "https://www.mykhel.com/thumb/247x100x233/cricket/players/2/11572.1667478275.jpg",
+      "name": "Hasan Mahmud ",
+      "gender": "Bowler",
+      "price":12000,
+      "quantity": 0
+    }
+  ]

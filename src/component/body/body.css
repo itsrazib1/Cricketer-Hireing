@@ -1,0 +1,30 @@
+.shop-container{
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+.product-container{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 45px;
+  margin: 50px;
+}
+.cart-container{
+  background: rgb(255, 198, 206);
+  padding-left: 50px;
+ position: sticky; 
+ top: 0;
+}
+.cart-container div{
+ position: sticky; 
+ top: 0;
+}
+
+.cart-container button{
+background: red;
+
+}
+.btn2 {
+  margin-top: 10px;
+  margin-left: -9px ;
+  background:rgb(0, 255, 34)  !important; ;
+}
